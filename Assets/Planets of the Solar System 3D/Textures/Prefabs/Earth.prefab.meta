@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32a000b460104f44bb4d2cd161df7c5a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90219
+  packageName: Planets of the Solar System 3D
+  packageVersion: 2.0
+  assetPath: Assets/Planets of the Solar System 3D/Prefabs/Earth.prefab
+  uploadId: 483801

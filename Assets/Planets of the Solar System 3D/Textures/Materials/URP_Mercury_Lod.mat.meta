@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b7c6f4451dbf7f04dbb40753c10167f8
+timeCreated: 1518493010
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90219
+  packageName: Planets of the Solar System 3D
+  packageVersion: 2.0
+  assetPath: Assets/Planets of the Solar System 3D/Materials/URP_Mercury_Lod.mat
+  uploadId: 483801
