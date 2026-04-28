@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 33ac62ee3b6f16641b6e954d326ba91f
+timeCreated: 1518493010
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90219
+  packageName: Planets of the Solar System 3D
+  packageVersion: 2.0
+  assetPath: Assets/Planets of the Solar System 3D/Materials/URP_Pluto_Lod.mat
+  uploadId: 483801
